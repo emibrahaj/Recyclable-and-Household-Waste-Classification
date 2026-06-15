@@ -1,0 +1,16 @@
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+.venv/
+venv/
+env/
+
+images/
+models/
+*.h5
+*.keras
+*.pkl
+
+.DS_Store
+Thumbs.db
