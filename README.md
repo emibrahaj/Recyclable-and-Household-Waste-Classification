@@ -5,9 +5,6 @@
 *Group Members*
 
 
-
-Aleksander Murati - Research regarding the dataset, data preprocessing.
-
 Era Malaj - Worked on the CNN Model and the rule-based agent, worked on the powerpoint and assembling results, comparison.
 
 Emi Brahaj - Worked on the Random Forest and Decision Tree models alongside assistance with showing the CNN graphs, QA.
